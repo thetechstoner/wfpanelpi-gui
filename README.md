@@ -28,6 +28,7 @@ sudo apt update && sudo apt install -y python3-gi python3-gi-cairo gir1.2-gtk-3.
 ### 2. Download the Script
 
 wf_panel_pi_config.py
+https://raw.githubusercontent.com/thetechstoner/wfpanelpi-gui/refs/heads/main/wf_panel_pi_config.py
 
 ---
 
