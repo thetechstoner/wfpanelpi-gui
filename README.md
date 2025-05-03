@@ -33,9 +33,10 @@ https://raw.githubusercontent.com/thetechstoner/wfpanelpi-gui/refs/heads/main/wf
 ---
 
 ### 3. Run the GUI
-
-chmod +x wf_panel_pi_config.py && python3 wf_panel_pi_config.py
-
+```
+chmod +x wf_panel_pi_config.py
+python3 wf_panel_pi_config.py
+```
 ---
 
 ## License
