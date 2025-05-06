@@ -36,7 +36,7 @@ curl -LO https://raw.githubusercontent.com/thetechstoner/wfpanelpi-gui/main/wf_p
 ### 3. Run the GUI
 ```
 chmod +x wf_panel_pi_config.py
-python3 wf_panel_pi_config.py
+./wf_panel_pi_config.py
 ```
 ---
 
